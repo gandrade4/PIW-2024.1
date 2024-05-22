@@ -1,0 +1,14 @@
+nesta pasta colocar todos os métodos em arquivos para o
+código ficar mais enxuto
+
+o index dentro de cidades é pra simplificar as controllers, pois ela
+agrupa todas as cidades em uma unica variavel
+
+qual a ideia
+dentro de controllers organiza todas as cidades por entidade
+
+resumo:
+index dentro de src fica escutando
+quando eu chamo no insonmia, vai pra routes
+pois eu disse pro server utilizar todas as rotas em routes
+
